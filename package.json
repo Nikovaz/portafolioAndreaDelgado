@@ -1,0 +1,13 @@
+{
+  "name": "portfolio-andrea-delgado",
+  "version": "1.0.0",
+  "description": "Portfolio de Andrea Romina Delgado",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "dev": "live-server --watch=css,js,images"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
